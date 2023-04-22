@@ -24,23 +24,21 @@ Dataset used from Kaggle, refer: <code>[Kaggle Dataset](https://www.kaggle.com/d
   
  * <a href="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Food%20Delivery%20Time%20Prediction%20Using%20Python-WOUTPUT.ipynb"> Link to Python Jupytr File </a>
  
-  * <a href="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Food-Delivery-Time-Prediction-Using-Python.pdf"> Jupytr File Result / Output after running it! </a>
- 
-  
+  * <a href="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Food-Delivery-Time-Prediction-Using-Python.pdf"> Jupytr File Result / Output after running it! </a>   
   
 ## We generated 4 types of graphs as following:
+ 
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Distance%20n%20Time.png" alt="Distance vs Time Taken"/></picture>
   
-  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Distance%20n%20Time.png" alt="Distance vs Time Taken"/>
+ <picture><img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Age%20n%20Time%20Taken.png" alt="Age vs Time Taken"/></picture>
   
- <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Age%20n%20Time%20Taken.png" alt="Age vs Time Taken"/>
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Time%20Taken%20n%20Rating.png" alt="Ratings vs Time Taken"/></picture>
   
-  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Time%20Taken%20n%20Rating.png" alt="Ratings vs Time Taken"/>
-  
-  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Time%20Taken%20vs%20Type%20of%20Vehicles.png" alt="Type of Vehicle vs Time Taken"/>
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Time%20Taken%20vs%20Type%20of%20Vehicles.png" alt="Type of Vehicle vs Time Taken"/></picture>
   
 ## Final Output After Running it with User Input Values:
   
-  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Testing%20the%20Performance%20of%20Model%20With%20User%20Inputs.png" alt="Running Model Output"/>
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Testing%20the%20Performance%20of%20Model%20With%20User%20Inputs.png" alt="Running Model Output"/></picture>
   
 ## Summary:
   
