@@ -21,7 +21,23 @@ Dataset used from Kaggle, refer: <code>[Kaggle Dataset](https://www.kaggle.com/d
 * <a href="https://www.python.org" target="_blank" rel="noreferrer">Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ### I have attached the Jupytr Python File to check yourself how it's done.
-
+  
+ * <a href="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Food%20Delivery%20Time%20Prediction%20Using%20Python-WOUTPUT.ipynb"> Link to Python Jupytr File </a>
+ 
+  * <a href="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Food-Delivery-Time-Prediction-Using-Python.pdf"> Jupytr File Result / Output after running it! </a>
+ 
+  
+  
+## We generated 4 types of graphs as following:
+  
+  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Distance%20n%20Time.png" alt="Distance vs Time Taken"/>
+  
+ <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Age%20n%20Time%20Taken.png" alt="Age vs Time Taken"/>
+  
+  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Relationship%20Between%20Time%20Taken%20n%20Rating.png" alt="Ratings vs Time Taken"/>
+  
+  <img align="center" src="https://github.com/Pavan-Jadhav/Food_Delivery_Time_Prediction_Using_LSTM_Python/blob/main/Time%20Taken%20vs%20Type%20of%20Vehicles.png" alt="Type of Vehicle vs Time Taken"/>
+  
 ## Summary:
   
 ** To predict the food delivery time in real time, you need to calculate the distance between the food preparation point and the point of food consumption. After finding the distance between the restaurant and the delivery locations, you need to find relationships between the time taken by delivery partners to deliver the food in the past for the same distance. Feel free to ask valuable questions in the comments section below. **
@@ -50,6 +66,6 @@ Dataset used from Kaggle, refer: <code>[Kaggle Dataset](https://www.kaggle.com/d
 ### [Pavan Jadhav](#)
 <p align="left"> <a href="https://twitter.com/pavan061994" target="blank"><img src="https://img.shields.io/twitter/follow/pavan061994?logo=twitter&style=for-the-badge" alt="Pavan Jadhav" /></a> </p>
 
-<a href="https://www.linkedin.com/in/pavanjadhav" target="blank"><img align="center" src="https://img.shields.io/badge/-PavanJadhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
+<a href="https://www.linkedin.com/in/pavanjadhav" target="blank"><img align="center" src="https://img.shields.io/badge/-PavanJadhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Pavan-Jadhav/" alt="Pavan-Jadhav" height="20" width="100" /></a>
 <a href="https://www.instagram.com/pavan061994" target="blank"><img align="center" src="https://img.shields.io/badge/-@pavan061994-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/pavan061994" alt="pavan061994" height="20" width="110" /></a>
 <a href="https://github.com/Pavan-Jadhav" target="blank"><img align="center" src="https://img.shields.io/github/followers/Pavan-Jadhav?label=Follow&style=social&link=https://github.com/Pavan-Jadhav/" alt="Pavan-Jadhav" height="20" width="90" /></a>
