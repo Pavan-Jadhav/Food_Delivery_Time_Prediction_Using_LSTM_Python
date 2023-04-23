@@ -1,4 +1,4 @@
-<h1 align="center">Food_Delivery_Time_Prediction_Using_LSTM_Python<a href="https://public.tableau.com/app/profile/Pavan-Jadhav" target="_blank" rel="noreferrer"></h1>
+<h1 align="center">Food_Delivery_Time_Prediction_Using_LSTM_Python</h1>
 
 **Food Delivery services like Zomato and Swiggy need to show the accurate time it will take to deliver your order to keep transparency with their customers. These companies use Machine Learning algorithms to predict the food delivery time based on how much time the delivery partners took for the same distance in the past. So, if you want to learn how to use Machine Learning for food delivery time prediction, this project is for you. This project will take you through food delivery time prediction with Machine Learning using Python** 
 
